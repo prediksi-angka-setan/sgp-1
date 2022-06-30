@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-angka-setan.github.io/sitemap.xml
